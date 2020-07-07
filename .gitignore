@@ -109,6 +109,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bin/
+include/
+lib/
+
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +131,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# client_secret.json
+backend/api/client_secret.json
