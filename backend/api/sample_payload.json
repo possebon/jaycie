@@ -1,0 +1,26 @@
+{
+    "calendar_name": "Monica",
+    "summary": "Maos - Luciane",
+    "description": "Cor do esmalte",
+    "start": {
+        "dateTime": "2020-07-04 14:00:00",
+        "timeZone": "America/Sao_Paulo"
+    },
+    "end": {
+        "dateTime": "2020-07-04 15:00:00",
+        "timeZone": "America/Sao_Paulo"
+    },
+    "reminders": {
+        "useDefault": "False",
+        "overrides": [
+            {
+                "method": "email",
+                "minutes": 1440
+            },
+            {
+                "method": "popup",
+                "minutes": 10
+            }
+        ]
+    }
+}
