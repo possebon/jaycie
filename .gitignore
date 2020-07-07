@@ -134,3 +134,4 @@ dmypy.json
 
 # client_secret.json
 backend/api/client_secret.json
+share/py4j/py4j0.10.9.jar
