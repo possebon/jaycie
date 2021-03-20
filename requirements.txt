@@ -19,7 +19,7 @@ httplib2==0.18.1
 idna==2.10
 inflection==0.5.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonschema==3.2.0
 logger==1.4
 MarkupSafe==1.1.1
